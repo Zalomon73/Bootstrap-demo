@@ -2,7 +2,7 @@
     box-sizing: border-box;
     }
     #d1{
-     animation-delay: .5s;   
+        animation-delay: .5s;   
     }
     
     #d2{
@@ -18,4 +18,92 @@
     }
     #d5{
         animation-delay: 2.5s;   
+    }
+
+    #d6 {
+        animation-delay: 3s;
+    }
+
+    #d7{
+        animation-delay: 3.5s;
+    }
+
+    #d8{
+        animation-delay: 4s;
+    }
+
+    #d9{
+        animation-delay: 4.5s;
+    }
+
+    #d10{
+        animation-delay: 5s;
+    }
+
+    #d11{
+        animation-delay: 5.5s;
+    }
+
+    #d13{
+        animation-delay: 6s;
+    }
+
+    #d14{
+        animation-delay: 6.5s;
+    }
+
+    #d15{
+        animation-delay: 7s;
+    }
+
+    #d16{
+        animation-delay: 7.5s;
+    }
+
+    #d17{
+        animation-delay: 8s;
+    }
+
+    #d18{
+        animation-delay: 8.5s;
+    }
+
+    #d19{
+        animation-delay: 9s;
+    }
+
+    #d20{
+        animation-delay: 9.5s;
+    }
+
+    #d21{
+        animation-delay: 10s;
+    }
+
+    #d22{
+        animation-delay: 10.5s;
+    }
+
+    #d23{
+        animation-delay: 11s;
+    }
+
+    #d24{
+        animation-delay: 11.5s;
+    }
+
+    #d25{
+        animation-delay: 12s;
+    }
+
+    #d26{
+        animation-delay: 12.5s;
+    }
+
+    #d28{
+        animation-delay: 13s;
+    }
+
+    #d29{
+        animation-delay: 13.5s;
     }
